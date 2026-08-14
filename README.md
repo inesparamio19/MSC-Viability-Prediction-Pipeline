@@ -25,7 +25,7 @@ mesenchymal-stem-cell-ml/
 ```
 
 ## Methodology and Results
-1.  **Dimensionality reduction :** a strict variance filter (95th percentile) was applied to remove maintenance genes. This reduced the feature space from 47,322 down to 2,367 biomarker candidate genes
+1.  **Dimensionality reduction:** a strict variance filter (95th percentile) was applied to remove maintenance genes. This reduced the feature space from 47,322 down to 2,367 biomarker candidate genes
 2.  **Training and validation:** due to the small sample size (n=12), a strict leave-one-out cross-validation approach was implemented to evaluate a Random Forest classifier algorithm
 3.  **Performance:** the model achieved a **predictive accuracy of 91.6%**
 
@@ -56,4 +56,4 @@ To reproduce this environment locally and run the analysis:
 ## Author:
 [Inés Paramio Quintanilla](https://www.linkedin.com/in/inés-paramio-quintanilla-a58a81296) :)
 
-Thank you for reading!
+Thank you for reading! 
