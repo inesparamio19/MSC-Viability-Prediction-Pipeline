@@ -1,6 +1,6 @@
 # MESENCHYMAL STEM CELLS VIABILITY PREDICTION
 
-A real biomedical analitic project based on Machine Learning tools to analyze and predict cell viability and senescence in Mesenchymal Stem Cells using transcriptomic (microarray) data
+A real biomedical analitical project based on Machine Learning tools to analyze and predict cell viability and senescence in Mesenchymal Stem Cells using transcriptomic (microarray) data
 
 ## Objective
 The main goal is to identify genetic biomarkers that act as strong predictors of cell viability (high-growth capacity vs. senescence) in MSC cultures. This project transitions from a high-dimensional problem to an interpretable predictive model, trying to use the most robust analytical methods acquired throughout my biomedical engineering degree, smoothly integrating them with modern data science tools (such as pandas) and advanced machine learning frameworks 
